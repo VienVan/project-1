@@ -151,7 +151,11 @@ input {
 	height: 80px;
 /*	border: .01px solid black;
 */	position: absolute;
+  margin: -20px;
 
+}
+img {
+  background: 20px;
 }
 
 .box1 {
@@ -351,5 +355,3 @@ top: 308px;
     left: 450px;
 
 }
-
-
